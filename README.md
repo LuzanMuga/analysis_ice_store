@@ -1,6 +1,6 @@
-# Video Game Market Analysis
+# Video game market analysis
 
-## English Summary
+## English summary
 
 Ice Store, an international video game retailer, needed to identify which factors were most strongly associated with commercial success in order to optimize marketing investments and prioritize products for the 2017 sales cycle.
 
@@ -12,7 +12,7 @@ The analysis revealed that platform selection, genre category, regional audience
 
 ## Skills & Tools
 
-### Business Analysis
+### Business analysis
 
 * Market research
 * Consumer segmentation
@@ -20,7 +20,7 @@ The analysis revealed that platform selection, genre category, regional audience
 * Regional market comparison
 * Strategic recommendations
 
-### Data Analysis
+### Data analysis
 
 * Python
 * Pandas
@@ -30,7 +30,7 @@ The analysis revealed that platform selection, genre category, regional audience
 * Correlation analysis
 * Data cleaning and transformation
 
-### Data Visualization
+### Data visualization
 
 * Matplotlib
 * Distribution analysis
@@ -40,7 +40,7 @@ The analysis revealed that platform selection, genre category, regional audience
 
 ---
 
-## Key Achievements
+## Key achievements
 
 * Identified PS4, Xbox One, and PC as the strongest commercial opportunities for the upcoming sales cycle.
 * Discovered that Action, Shooter, and Sports were the highest-performing genres globally.
@@ -58,7 +58,7 @@ The findings provided a framework for prioritizing advertising budgets, selectin
 By understanding the drivers of commercial success, Ice Store can make more informed decisions regarding inventory planning, campaign execution, and future market opportunities.
 
 
-# Análisis del Mercado de Videojuegos
+# Análisis del mercado de videojuegos
 
 ## Resumen
 
@@ -72,7 +72,7 @@ El análisis permitió identificar plataformas con mayor potencial, géneros dom
 
 ## Skills & Tools
 
-### Análisis de Negocio
+### Análisis de negocio
 
 * Investigación de mercado
 * Análisis de comportamiento del consumidor
@@ -80,7 +80,7 @@ El análisis permitió identificar plataformas con mayor potencial, géneros dom
 * Planeación estratégica
 * Desarrollo de recomendaciones de negocio
 
-### Análisis de Datos
+### Análisis de datos
 
 * Python
 * Pandas
@@ -111,7 +111,7 @@ El análisis permitió identificar plataformas con mayor potencial, géneros dom
 
 ---
 
-## Impacto de Negocio
+## Impacto de negocio
 
 Los hallazgos permitieron establecer una metodología para priorizar productos, enfocar campañas de marketing y adaptar estrategias comerciales según las preferencias de cada mercado.
 
